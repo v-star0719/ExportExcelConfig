@@ -10,3 +10,7 @@
 由于使用的是.net framework 4.8，NPOI最高到2.3.0版本，否则会引入一堆库。
 
 如果使用新版本的NPOI，请使用最新版.net
+
+# 推荐使用Luaban导出配置
+https://www.datable.cn/docs/intro
+这个开源的，而且功能很全，可以直接导出为二进制数据文件。
