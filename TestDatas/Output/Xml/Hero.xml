@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfConfHero>
+  <ConfHero>
+    <id>1</id>
+    <name>默认主角</name>
+    <mode>hero1</mode>
+    <level>1</level>
+    <baseAtk>10</baseAtk>
+    <baseHp>100</baseHp>
+    <moveSpeed>1000</moveSpeed>
+    <atkSpeed>1000</atkSpeed>
+    <regen >0</regen >
+    <power >1000</power >
+    <growth>1000</growth>
+    <luck >1000</luck >
+    <greed >1000</greed >
+    <revivals >0</revivals >
+  </ConfHero>
+  <ConfHero>
+    <id>2</id>
+    <name>默认主角</name>
+    <mode>hero2</mode>
+    <level>2</level>
+    <baseAtk>20</baseAtk>
+    <baseHp>148</baseHp>
+    <moveSpeed>1000</moveSpeed>
+    <atkSpeed>1000</atkSpeed>
+    <regen >0</regen >
+    <power >1000</power >
+    <growth>1000</growth>
+    <luck >1000</luck >
+    <greed >1000</greed >
+    <revivals >0</revivals >
+  </ConfHero>
+  <ConfHero>
+    <id>3</id>
+    <name>默认主角</name>
+    <mode>hero3</mode>
+    <level>3</level>
+    <baseAtk>30</baseAtk>
+    <baseHp>196</baseHp>
+    <moveSpeed>1000</moveSpeed>
+    <atkSpeed>1000</atkSpeed>
+    <regen >0</regen >
+    <power >1000</power >
+    <growth>1000</growth>
+    <luck >1000</luck >
+    <greed >1000</greed >
+    <revivals >0</revivals >
+  </ConfHero>
+</ArrayOfConfHero>
